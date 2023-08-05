@@ -409,7 +409,7 @@ kubectl version
 ## Common Resource Kinds
 
 Name|Shortnames|Namespaced|Kind
----|---|---|---
+:---:|:---:|:---:|:---:
 bindings||true|Binding
 componentstatuses|cs|false|ComponentStatus
 configmaps|cm|true|ConfigMap
